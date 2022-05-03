@@ -3,3 +3,4 @@
 # Javascript
 
 - [OOP](js/OOP/README.md)
+- [CodeWars](js/codewars/README.md)
